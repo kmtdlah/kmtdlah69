@@ -26,7 +26,7 @@ const defaultMenu = {
 ┃✾ Uptime: *%uptime (%muptime)*
 ┃✾ Database: %rtotalreg dari %totalreg
 ┃✾ Instagram:
-┃✾ https://www.instagram.com/lcxzxx
+┃✾ https://www.instagram.com/andii
 ┗━━━━━━ꕥ`.trimStart(),
   header: '┏━━ꕥ〔 *%category* 〕ꕥ━⬣',
   body: '┃✾%cmd %islimit %isPremium',
@@ -252,8 +252,8 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┃✾ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* Pengguna Terbanned
 ┗━ꕥ
 ┏━ꕥ
-┃✾ Github Name : https://www.github.com/mcxzxx
-┃✾ IG : https://www.instagram.com/lcxzxx
+┃✾ Github Name : https://www.github.com/kmtl
+┃✾ IG : https://www.instagram.com/andii
 ┃✾ Note : Biar ga delay jgn spam OM
 ┗━━━━━━━━⬣`.trim(),
           "footerText": "Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada owner.",
