@@ -1,1 +1,1 @@
-web: npm i && node . --server 
+web: npm install && npm i ffmpeg &&  npm i @adiwajshing/baileys@latest && npm start
